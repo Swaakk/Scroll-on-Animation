@@ -6,6 +6,11 @@ function MainContainer() {
     <div className='MainContainer'>
       <div className='box'></div>
       <div className='box'></div>
+      <div className='box'></div>
+      <div className='box'></div>
+      <div className='box'></div>
+      <div className='box'></div>
+      <div className='box'></div>
       
          
       
